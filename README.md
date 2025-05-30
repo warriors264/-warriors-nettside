@@ -57,7 +57,9 @@
   <main>
     <h1>Velkommen til Warriors</h1>
     <p>Tren som en ekte kriger med utstyr og klær som tåler alt.</p>
-    <button onclick="alert('Du er en warrior nå!')">Bli med oss</button>
+    <a href="produkter.html">
+  <button>Se produkter</button>
+</a>>Bli med oss</button>
   </main>
 
   <footer>
